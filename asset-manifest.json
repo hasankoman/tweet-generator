@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tweet-generator/static/css/main.ebc5f7c3.css",
+    "main.js": "/tweet-generator/static/js/main.ff91e49d.js",
+    "index.html": "/tweet-generator/index.html",
+    "main.ebc5f7c3.css.map": "/tweet-generator/static/css/main.ebc5f7c3.css.map",
+    "main.ff91e49d.js.map": "/tweet-generator/static/js/main.ff91e49d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc5f7c3.css",
+    "static/js/main.ff91e49d.js"
+  ]
+}
